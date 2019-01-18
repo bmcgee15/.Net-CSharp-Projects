@@ -1,0 +1,10 @@
+C:\Users\Bret McGee\source\repos\Lab5B\Lab5B\bin\Debug\Lab5B.exe.config
+C:\Users\Bret McGee\source\repos\Lab5B\Lab5B\bin\Debug\Lab5B.exe
+C:\Users\Bret McGee\source\repos\Lab5B\Lab5B\bin\Debug\Lab5B.pdb
+C:\Users\Bret McGee\source\repos\Lab5B\Lab5B\obj\Debug\Lab5B.csprojAssemblyReference.cache
+C:\Users\Bret McGee\source\repos\Lab5B\Lab5B\obj\Debug\Lab5B.Form1.resources
+C:\Users\Bret McGee\source\repos\Lab5B\Lab5B\obj\Debug\Lab5B.Properties.Resources.resources
+C:\Users\Bret McGee\source\repos\Lab5B\Lab5B\obj\Debug\Lab5B.csproj.GenerateResource.cache
+C:\Users\Bret McGee\source\repos\Lab5B\Lab5B\obj\Debug\Lab5B.csproj.CoreCompileInputs.cache
+C:\Users\Bret McGee\source\repos\Lab5B\Lab5B\obj\Debug\Lab5B.exe
+C:\Users\Bret McGee\source\repos\Lab5B\Lab5B\obj\Debug\Lab5B.pdb
