@@ -1,0 +1,10 @@
+C:\Users\Bret McGee\source\repos\week6inclass\week6inclass\bin\Debug\week6inclass.exe.config
+C:\Users\Bret McGee\source\repos\week6inclass\week6inclass\bin\Debug\week6inclass.exe
+C:\Users\Bret McGee\source\repos\week6inclass\week6inclass\bin\Debug\week6inclass.pdb
+C:\Users\Bret McGee\source\repos\week6inclass\week6inclass\obj\Debug\week6inclass.csprojAssemblyReference.cache
+C:\Users\Bret McGee\source\repos\week6inclass\week6inclass\obj\Debug\week6inclass.Form1.resources
+C:\Users\Bret McGee\source\repos\week6inclass\week6inclass\obj\Debug\week6inclass.Properties.Resources.resources
+C:\Users\Bret McGee\source\repos\week6inclass\week6inclass\obj\Debug\week6inclass.csproj.GenerateResource.cache
+C:\Users\Bret McGee\source\repos\week6inclass\week6inclass\obj\Debug\week6inclass.csproj.CoreCompileInputs.cache
+C:\Users\Bret McGee\source\repos\week6inclass\week6inclass\obj\Debug\week6inclass.exe
+C:\Users\Bret McGee\source\repos\week6inclass\week6inclass\obj\Debug\week6inclass.pdb

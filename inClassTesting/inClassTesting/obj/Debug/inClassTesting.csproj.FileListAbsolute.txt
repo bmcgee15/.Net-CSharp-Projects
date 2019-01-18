@@ -1,0 +1,10 @@
+C:\Users\Bret McGee\source\repos\inClassTesting\inClassTesting\bin\Debug\inClassTesting.exe.config
+C:\Users\Bret McGee\source\repos\inClassTesting\inClassTesting\bin\Debug\inClassTesting.exe
+C:\Users\Bret McGee\source\repos\inClassTesting\inClassTesting\bin\Debug\inClassTesting.pdb
+C:\Users\Bret McGee\source\repos\inClassTesting\inClassTesting\obj\Debug\inClassTesting.csprojAssemblyReference.cache
+C:\Users\Bret McGee\source\repos\inClassTesting\inClassTesting\obj\Debug\inClassTesting.Form1.resources
+C:\Users\Bret McGee\source\repos\inClassTesting\inClassTesting\obj\Debug\inClassTesting.Properties.Resources.resources
+C:\Users\Bret McGee\source\repos\inClassTesting\inClassTesting\obj\Debug\inClassTesting.csproj.GenerateResource.cache
+C:\Users\Bret McGee\source\repos\inClassTesting\inClassTesting\obj\Debug\inClassTesting.csproj.CoreCompileInputs.cache
+C:\Users\Bret McGee\source\repos\inClassTesting\inClassTesting\obj\Debug\inClassTesting.exe
+C:\Users\Bret McGee\source\repos\inClassTesting\inClassTesting\obj\Debug\inClassTesting.pdb
